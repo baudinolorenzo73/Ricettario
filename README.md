@@ -1,2 +1,0 @@
-# Ricettario
-Tutte le ricette
